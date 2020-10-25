@@ -1,0 +1,7 @@
+.wrap .dx-cf-status.inactive {
+	color: #ff0000;
+}
+
+.wrap .dx-cf-status.active {
+	color: #008000;
+}
